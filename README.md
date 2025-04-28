@@ -6,9 +6,8 @@ Projeto de automação de testes utilizando **Cypress** para a aplicação [Sauc
 
 - [Cypress](https://www.cypress.io/) — Framework de testes E2E
 - [Node.js](https://nodejs.org/) — Ambiente de execução JavaScript
-- [Mocha](https://mochajs.org/) — Estrutura de testes (padrão no Cypress)
-- [Chai](https://www.chaijs.com/) — Biblioteca de asserções
-- [Faker.js](https://github.com/Marak/Faker.js/) — (opcional, se usado para gerar dados fake)
+- JavaSript — Linguagem principal dos testes
+
 
 ## 📋 Funcionalidades Testadas
 
